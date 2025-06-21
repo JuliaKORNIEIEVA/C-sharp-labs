@@ -1,0 +1,14 @@
+/Users/uliakorneeva/Desktop/LB3/DamageSystemApp/DamageSystemApp/bin/Debug/net8.0/DamageSystemApp
+/Users/uliakorneeva/Desktop/LB3/DamageSystemApp/DamageSystemApp/bin/Debug/net8.0/DamageSystemApp.deps.json
+/Users/uliakorneeva/Desktop/LB3/DamageSystemApp/DamageSystemApp/bin/Debug/net8.0/DamageSystemApp.runtimeconfig.json
+/Users/uliakorneeva/Desktop/LB3/DamageSystemApp/DamageSystemApp/bin/Debug/net8.0/DamageSystemApp.dll
+/Users/uliakorneeva/Desktop/LB3/DamageSystemApp/DamageSystemApp/bin/Debug/net8.0/DamageSystemApp.pdb
+/Users/uliakorneeva/Desktop/LB3/DamageSystemApp/DamageSystemApp/obj/Debug/net8.0/DamageSystemApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/uliakorneeva/Desktop/LB3/DamageSystemApp/DamageSystemApp/obj/Debug/net8.0/DamageSystemApp.AssemblyInfoInputs.cache
+/Users/uliakorneeva/Desktop/LB3/DamageSystemApp/DamageSystemApp/obj/Debug/net8.0/DamageSystemApp.AssemblyInfo.cs
+/Users/uliakorneeva/Desktop/LB3/DamageSystemApp/DamageSystemApp/obj/Debug/net8.0/DamageSystemApp.csproj.CoreCompileInputs.cache
+/Users/uliakorneeva/Desktop/LB3/DamageSystemApp/DamageSystemApp/obj/Debug/net8.0/DamageSystemApp.dll
+/Users/uliakorneeva/Desktop/LB3/DamageSystemApp/DamageSystemApp/obj/Debug/net8.0/refint/DamageSystemApp.dll
+/Users/uliakorneeva/Desktop/LB3/DamageSystemApp/DamageSystemApp/obj/Debug/net8.0/DamageSystemApp.pdb
+/Users/uliakorneeva/Desktop/LB3/DamageSystemApp/DamageSystemApp/obj/Debug/net8.0/DamageSystemApp.genruntimeconfig.cache
+/Users/uliakorneeva/Desktop/LB3/DamageSystemApp/DamageSystemApp/obj/Debug/net8.0/ref/DamageSystemApp.dll
